@@ -10,5 +10,7 @@ LV2：高度接近 3560px，可正負 50px
 4.標題標籤須正確使用，例如：網頁有一個 h1 標籤、次標題依重要順序使用 h2, h3  
 
 *-個人履歷(-v2)* `最新版`  
-repo : https://github.com/osncode/main_task1_design_draft-v2-
+repo : https://github.com/osncode/main_task1_design_draft-v2-  
+pages : https://osncode.github.io/main_task1_design_draft-v2-/
+
 
